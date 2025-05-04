@@ -10,11 +10,8 @@ When evaluating AI capabilities across different domains, benchmarking provides 
 | Fixing diagnostic issues                           | Coding         | Error identification, code correction               | Understanding error messages, complex dependencies |
 | Coding with existing codebase/starter project      | Coding         | Code integration, understanding existing code       | Code style consistency, dependency management      |
 | Content creation                                   | Writing        | Coherence, originality, tone                        | Consistency, factual accuracy                      |
-| Storytelling                                       | Writing        | Creativity, coherence, engagement                   | Plot consistency, character development            |
 | Summarizing or reviewing multiple articles         | Writing        | Summarization accuracy, review depth                | Handling large amounts of information, consistency |
 | Summarizing one article                            | Writing        | Summarization accuracy, key point identification    | Identifying most important information             |
-| Academic papers                                    | Proofreading   | Error detection, grammar fixes, contextual nuance | Contextual nuance, style adherence                 |
-| Professional documents                             | Proofreading   | Error detection, grammar fixes, style adherence     | Style guide adherence, consistency                 |
 | Grammar checking for English                       | Proofreading   | Error detection, grammar fixes                      | Idiomatic expressions, complex sentence structures |
 | Proofreading for Chinese                          | Proofreading   | Error detection, grammar fixes, contextual nuance | Character nuances, idiomatic expressions           |
 
