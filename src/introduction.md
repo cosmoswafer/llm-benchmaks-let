@@ -14,5 +14,7 @@ When evaluating AI capabilities across different domains, benchmarking provides 
 | Summarizing one article                            | Writing        | Summarization accuracy, key point identification    | Identifying most important information             |
 | Grammar checking for English                       | Proofreading   | Error detection, grammar fixes                      | Idiomatic expressions, complex sentence structures |
 | Proofreading for Chinese                          | Proofreading   | Error detection, grammar fixes, contextual nuance | Character nuances, idiomatic expressions           |
+| 8 Queen solutions TUI
+| 8 Queen solutions Bevy UI via llm txt
 
 These benchmarks are based on my personal use cases, with a strong focus on coding tasks. They are not intended to represent a comprehensive evaluation of all possible AI capabilities across these domains. While they reveal trade-offs, it's important to remember this is from a specific, coding-centric perspective. Performance across these categories may correlate with model architecture and training data breadth. These benchmarks can be used with various testing frameworks, such as MCP, Aider, and Zed.
